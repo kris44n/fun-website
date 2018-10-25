@@ -1,0 +1,15 @@
+.jumbotron h1{
+	font-family: 'Mali', cursive;
+	font-size: 5em;
+	color: brown;
+
+}
+
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+
+.co{
+	padding: 40px;
+}
